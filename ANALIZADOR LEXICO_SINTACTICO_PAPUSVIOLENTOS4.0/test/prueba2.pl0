@@ -1,0 +1,10 @@
+###HOLA###
+VAR
+	h,m,mult,ver;
+PROCEDURE time;
+VAR hora, minutos, segundos;
+BEGIN
+	A := 3 + (2-5);
+	IF h  24 THEN ver:=0;
+END;
+###COMENTARIO###
